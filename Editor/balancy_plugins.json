@@ -1,0 +1,23 @@
+{
+    "editor": {
+        "url": "http://u3d.as/1jis",
+        "version": "2.0.0",
+        "min_version": "2.0.0"
+    },
+    "plugins": [
+        {
+            "name": "Balancy",
+            "version": "2.0.0",
+            "description": "Main plugin, mandatory to work",
+            "can_be_removed": false,
+            "download": [
+                {
+                    "url": "https://dictionaries-unnynet.fra1.cdn.digitaloceanspaces.com/config/Balancy.dll",
+                    "file": "Plugins/Balancy.dll"
+                }
+            ],
+            "dependencies": [],
+            "code": "namespace Balancy\n{\n    public static class Main\n    {\n        public static void Init(AppConfig config)\n        {\n            DataEditor.Init();\n            PrepareOtherPlugins();\n            Controller.Init(config);\n        }\n\n        private static void PrepareOtherPlugins()\n        {\n            {0}\n        }\n    }\n}"
+        }
+    ]
+}
