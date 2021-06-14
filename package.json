@@ -30,5 +30,7 @@
 	},
 	"dependencies": {
 		"com.unity.nuget.newtonsoft-json": "2.0.0"
-	}
+	},
+	"documentationUrl": "https://en.docs.balancy.dev",
+	"changelogUrl": "https://en.docs.balancy.dev/release_notes.html"
 }
