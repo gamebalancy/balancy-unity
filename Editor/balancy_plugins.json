@@ -1,13 +1,13 @@
 {
     "editor": {
         "url": "http://u3d.as/1jis",
-        "version": "2.0.1",
-        "min_version": "2.0.1"
+        "version": "2.0.2",
+        "min_version": "2.0.2"
     },
     "plugins": [
         {
             "name": "Balancy",
-            "version": "2.0.1",
+            "version": "2.0.2",
             "description": "Main plugin, mandatory to work",
             "can_be_removed": false,
             "download": [
