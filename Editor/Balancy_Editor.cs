@@ -74,7 +74,7 @@ namespace Balancy.Editor
         {
             var window = GetWindow(typeof(Balancy_Editor));
             window.titleContent.text = "Balancy";
-            window.titleContent.image = AssetDatabase.LoadAssetAtPath<Texture2D>("Assets/Balancy/Editor/UnnyLogo.png");
+            window.titleContent.image = AssetDatabase.LoadAssetAtPath<Texture2D>("Assets/Balancy/Editor/BalancyLogo.png");
         }
 
         private void Awake()
