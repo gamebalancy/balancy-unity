@@ -1,0 +1,17 @@
+{
+    "name": "GameBalancy.Editor",
+    "references": [
+        "GUID:1fb8773f92f308345b04e9f40fe5c6e7"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
